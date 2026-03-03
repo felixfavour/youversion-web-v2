@@ -1,0 +1,21 @@
+# Local env — NEVER commit this file
+.env
+
+# Nuxt build output
+.nuxt/
+.output/
+dist/
+
+# Node modules
+node_modules/
+
+# OS artefacts
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/settings.json
+*.local
+
+# Vercel
+.vercel
